@@ -29,6 +29,14 @@ body {
   }
 }
 
+a {
+  color: #ffffff;
+}
+
+a:visited{
+  color: #ffffff;
+}
+
 #app {
   display: grid;
   place-items: center;
@@ -39,4 +47,13 @@ body {
   background-color: #f5f2f0;
   padding: 50px;
   border-radius: 20px;
+}
+
+#links {
+  color: #f5f2f0;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between; 
+  padding:10px;  
 }
