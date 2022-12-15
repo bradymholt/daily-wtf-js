@@ -44,7 +44,6 @@ a:visited {
   padding: 50px;
   border-radius: 20px;  
   width: 600px;
-  max-width: 80%;
   overflow: auto;
 }
 
@@ -54,4 +53,8 @@ a:visited {
   align-items: center;
   justify-content: space-between;
   padding: 10px;
+}
+
+#links a {
+  margin: 0 0 0 5px;
 }
