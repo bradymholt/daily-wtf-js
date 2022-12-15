@@ -1,0 +1,1 @@
+typeof NaN // number, of course.

@@ -1,0 +1,3 @@
+// In Safari, try...
+var enum;
+//-&gt; SyntaxError: Parse error

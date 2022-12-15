@@ -1,4 +1,4 @@
-:root {
+body {
   font-family: Inter, Avenir, Helvetica, Arial, sans-serif;
   font-size: 16px;
   line-height: 24px;
@@ -13,32 +13,30 @@
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   -webkit-text-size-adjust: 100%;
-}
 
-body {
   margin: 0;
+  padding: 20px 0;
   min-height: 100vh;
+
   /* Source: https://cssgradient.io/swatches/ */
   background: linear-gradient(90deg, #1cb5e0 0%, #000851 100%);
 }
 
-@media (prefers-color-scheme: light) {
-  :root {
-    color: #213547;
-    background-color: #ffffff;
-  }
+h1 {  
+  padding:10px;
+  text-align: center;
 }
 
 a {
   color: #ffffff;
 }
 
-a:visited{
+a:visited {
   color: #ffffff;
 }
 
-#app {
-  display: grid;
+#main {
+  display: grid;  
   place-items: center;
   min-height: 100vh;
 }
@@ -54,6 +52,6 @@ a:visited{
   display: flex;
   flex-direction: row;
   align-items: center;
-  justify-content: space-between; 
-  padding:10px;  
+  justify-content: space-between;
+  padding: 10px;
 }
