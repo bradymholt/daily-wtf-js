@@ -1,0 +1,62 @@
+/* Source: https://cssgradient.io/swatches/ */
+
+.vitalOcean {
+  background: linear-gradient(90deg, #1cb5e0 0%, #000851 100%);
+}
+
+.kaleSalad {
+  background: linear-gradient(90deg, #00c9ff 0%, #92fe9d 100%);
+}
+
+.discoClub {
+  background: linear-gradient(90deg, #fc466b 0%, #3f5efb 100%);
+}
+
+.shadyLane {
+  background: linear-gradient(90deg, #3f2b96 0%, #a8c0ff 100%);
+}
+
+.retroWagon {
+  background: linear-gradient(90deg, #fdbb2d 0%, #22c1c3 100%);
+}
+
+.frescoCrush {
+  background: linear-gradient(90deg, #fdbb2d 0%, #3a1c71 100%);
+}
+
+.cucumberWater {
+  background: linear-gradient(90deg, #e3ffe7 0%, #d9e7ff 100%);
+  color: black;
+}
+
+.seaSalt {
+  background: linear-gradient(90deg, #4b6cb7 0%, #182848 100%);
+}
+
+.parFour {
+  background: linear-gradient(90deg, #9ebd13 0%, #008552 100%);
+}
+
+.ooeyGooey {
+  background: linear-gradient(90deg, #0700b8 0%, #00ff88 100%);
+}
+
+.bloodyMimosa {
+  background: linear-gradient(90deg, #d53369 0%, #daae51 100%);
+}
+
+.lovelyLilly {
+  background: linear-gradient(90deg, #efd5ff 0%, #515ada 100%);
+}
+
+.aquaSpray {
+  background: linear-gradient(90deg, #00d2ff 0%, #3a47d5 100%);
+}
+
+.mellowYellow {
+  background: linear-gradient(90deg, #f8ff00 0%, #3ad59f 100%);
+}
+
+.dustyCactus {
+  background: linear-gradient(90deg, #fcff9e 0%, #c67700 100%);
+}
