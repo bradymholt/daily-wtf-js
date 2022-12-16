@@ -1,7 +1,7 @@
 import { defineConfig } from "vite";
-import { viteSingleFile } from "vite-plugin-singlefile";
 
-export default defineConfig({
-  //plugins: [viteSingleFile({ removeViteModuleLoader: true })],
-  //base: "/daily-wtf-js"
+export default defineConfig({  
+  server: {
+    host: true,
+  },
 });
