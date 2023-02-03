@@ -1,6 +1,6 @@
 # daily-wtf-js
 
-A simple website that displays a WTF JavaScript snippet that rotates each day.
+A simple website that displays a WTF JavaScript snippet that rotates each day.  This site was built using [Vite](https://vitejs.dev/).
 
 ## Credit
 
